@@ -6,6 +6,7 @@ These are open-source projects that Vortex infrastructure is powering. We work o
 
 1. Large enough problem spaces, and I'm committed to solving those issues. Always open and looking for contributors!
 2. They serve as internal projects that Vortex uses to test features before we release them to the public.
+3. I just wanted to work on them and love providing for the dev community!
 
 ## Projects
 
