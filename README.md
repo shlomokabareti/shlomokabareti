@@ -1,12 +1,12 @@
 # Shlomo Kabareti
 
-I'm a Brooklyn-based founder and CEO of [Vortex](https://vortex.nyc). Vortex is the financial infrastructure agents depend on to move money.
+I'm the founder and CEO of [Vortex](https://vortex.nyc). Vortex is the financial infrastructure agents depend on to move money.
 
-These are open-source projects that Vortex infrastructure is powering. We work on them for two reasons:
+These are open-source projects powered by Vortex infrastructure. We build them in public for three reasons:
 
-1. Large enough problem spaces, and I'm committed to solving those issues. Always open and looking for contributors!
-2. They serve as internal projects that Vortex uses to test features before we release them to the public.
-3. I just wanted to work on them and love providing for the dev community!
+1. **They're big enough problem spaces to matter** — and I'm committed to solving them. Contributions welcome, always.
+2. **They dogfood Vortex** — real production load lets us test features before releasing them publicly.
+3. **I genuinely love building for the dev community.**
 
 ## Projects
 
